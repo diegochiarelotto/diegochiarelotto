@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Telecomunicaçoes 
-- 🌱 Estudando HTML5 | CSS3 | JavaScript | React Native
+- 🌱 Estudando HTML5 | CSS3 | JavaScript | React Native | Node.JS
 - 👯 Contate-me no e-mail abaixo
 
 <div align="center">
@@ -16,6 +16,7 @@
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
  </div>
   
   ##
