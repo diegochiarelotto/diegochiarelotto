@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Telecomunicaçoes 
-- 🌱 Estudando HTML5 | CSS3 | JavaScript | Bootstrap | React Native |  Node.JS | 
+- 🌱 Estudando HTML5 | CSS3 | JavaScript | PHP | Bootstrap | React Native |  Node.JS | MYSQL |
 - 👯 Contate-me no e-mail abaixo
 
 <div align="center">
