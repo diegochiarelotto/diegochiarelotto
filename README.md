@@ -18,6 +18,7 @@
   <img align="center" alt="Diego-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@7.13.0/icons/bootstrap.svg">
   <img align="center" alt="Diego-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Diego-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Diego-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   
  </div>
   
