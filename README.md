@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego Chiarelotto
 
 
-- 🔭 Hoje trabalho com  T.I e Telecomunicações.
+- 🔭 Hoje trabalho como Supervidor de Desenvolvimento.
 - 🌱 Estudando HTML5 | CSS3 | JavaScript | PHP | Bootstrap | React Native |  Node.JS | MYSQL |
 - 👯 Contate-me no e-mail abaixo
 
